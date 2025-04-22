@@ -226,7 +226,7 @@
             "value": "SourisSurObjet"
           },
           "parameters": [
-            "BlackSquareDecoratedButton",
+            "test_object_button",
             "",
             "",
             ""
