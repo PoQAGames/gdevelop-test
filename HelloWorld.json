@@ -177,6 +177,30 @@
         "name": "NewTiledSprite",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Run.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Run",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Run2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run2.png\"}",
+        "name": "Run2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Run3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Run3.png\"}",
+        "name": "Run3",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
